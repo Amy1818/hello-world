@@ -1,2 +1,2 @@
 # hello-world
-Have a good time at GIthub!
+Have a good time at Github!
